@@ -1,0 +1,26 @@
+@import "tailwindcss";
+body{
+    color: #D7D6D6;
+    font-family: Quintessential
+;
+}
+#tsparticles{
+    z-index: -1;
+    width:100%;
+    height: 100%;
+    position: fixed;
+}
+h2{
+    font-family: Cal Sans;
+}
+h3{
+    font-family: Alumni Sans;
+    font-weight: 100;
+}
+span{
+    font-family: Alumni Sans;
+    font-weight: 20;
+}
+.work{
+    font-weight: 200;
+}
