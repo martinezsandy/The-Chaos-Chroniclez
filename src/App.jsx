@@ -14,7 +14,7 @@ import { FaJsSquare } from "react-icons/fa";
 import { FaReact } from "react-icons/fa";
 import { RiTailwindCssFill } from "react-icons/ri";
 import { FaWhatsapp } from "react-icons/fa6";
-
+import image from "./assets/pfp.jpg";
 
 function App() {
   return (
@@ -28,7 +28,7 @@ function App() {
             <h3 className="text-4xl ml-[3.15em] mb-[0] font-light">a beginner full-stack web developer</h3>
         </div>
         <div className="second ">
-          <img src="./src/assets/pfp.jpg" className="w-75 h-75 rounded-[50%] mt-[40%] ml-[100%]"></img>
+          <img src={image} className="w-75 h-75 rounded-[50%] mt-[40%] ml-[100%]"></img>
         </div>
       </div>
       <div className="flex justify-end gap-4 mr-[15em] mt-[1em] mb-0">
