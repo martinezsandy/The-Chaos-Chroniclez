@@ -15,12 +15,19 @@ h2{
 }
 h3{
     font-family: Alumni Sans;
-    font-weight: 100;
+    
+}
+h4{
+    font-family: Alumni Sans;
+    
 }
 span{
     font-family: Alumni Sans;
-    font-weight: 20;
+    font-weight: 250;
 }
 .work{
     font-weight: 200;
+}
+p{
+    font-family: Cal Sans;
 }

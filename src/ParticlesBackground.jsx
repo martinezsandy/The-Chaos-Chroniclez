@@ -17,7 +17,7 @@ const ParticlesBackground = () => {
         fullScreen: { enable: true },
         particles: {
           number: {
-            value: 50,
+            value: 65,
             density: {
               enable: true,
               area: 800,
